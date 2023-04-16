@@ -1,0 +1,18 @@
+*{
+    background-color: black;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(C:\Users\DELL\Downloads\family\calc.jpg);
+background-position: center;
+background-size: cover;
+padding: 0 8%;
+position: relative;
+}
+.logo{
+    width: 1400px;
+    height: 1300px;
+    padding: 20px 0;
+    cursor: pointer;
+}
